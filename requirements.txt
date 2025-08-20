@@ -1,0 +1,7 @@
+streamlit
+Flask-SQLAlchemy
+Pillow
+google-generativeai
+easyocr
+torch
+torchvision
